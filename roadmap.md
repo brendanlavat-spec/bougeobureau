@@ -1,0 +1,8 @@
+- [x] Ajouter les contextes Travail / Domicile avec domicile par défaut le week-end et choix du jour.
+- [x] Adapter suggestions, rappels et emploi du temps aux deux contextes, y compris l’export Agenda.
+- [x] Vérifier le parcours dans l’aperçu.
+- [x] Résumer les pauses aux exercices et répétitions.
+- [x] Ajouter une aide « ? » qui affiche les explications à la demande.
+- [x] Vérifier l’affichage et l’ouverture de l’aide sur mobile.
+- [x] Remplacer les cinq pages de présentation par un mini-parcours illustré sur une seule page.
+- [x] Vérifier les deux sorties du parcours et l’affichage sur téléphone et ordinateur.

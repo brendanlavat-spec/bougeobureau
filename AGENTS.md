@@ -1,0 +1,3 @@
+- Native iOS/Android via Capacitor + @capgo/capacitor-pedometer, dynamically imported in use-pedometer.ts — keeps SSR safe; iOS catches up background steps via getMeasurement, Android flags cold-start gaps.
+- Keep day context and one-day overrides in the local profile, with weekend defaults and separate home hours; this preserves anonymous, device-only preferences across sessions.
+- Keep exercise summaries in the shared exercise catalog and use ExerciseHelp to reveal detailed instructions on demand; this keeps pause views concise and explanations consistent.
